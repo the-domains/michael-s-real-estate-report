@@ -1,0 +1,28 @@
+name: "Michael's Real Estate Report"
+favicon: null
+layout_spectrum: 0.5738677640911192
+typography_spectrum: 0.08738350891508162
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4962978600524366
+  lightness: 0.8928554113954306
+  saturation: 0.5811567499767989
+  rhythmicContrast: 0.9189087697304785
+purpose: []
