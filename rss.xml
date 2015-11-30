@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael's Real Estate Report]]></title>
+        <description><![CDATA[Michael's Real Estate Report]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Nov 2015 04:44:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arcadia San Marino House Market Slowing Down]]></title>
+            <description><![CDATA[<article><h1>Arcadia San Marino House Market Slowing Down</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ca9e83b-02c9-47da-8ed6-8603b2fccf19.jpg"></article>]]></description>
+            <link>undefinedarcadia-san-marino-house-market-slowing-down/index.html</link>
+            <guid isPermaLink="false">6fa86226-df2d-4e93-a2af-51325ec8ad7b</guid>
+            <pubDate>Mon, 30 Nov 2015 04:44:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
